@@ -22,7 +22,10 @@ means:
   postings crawlable long after they close, which was creating junk
   entries with unconfirmed req IDs.
 - **Always click through and verify on careers.aramco.com yourself**
-  before treating anything here as a real, open opportunity.
+  before treating anything here as a real, open opportunity. This is the
+  only reliable way to catch a filled posting quickly — see the
+  2026-08-29 entry below, where the candidate did exactly that and caught
+  a filled req that search snippets still showed as live.
 
 Real fix for the underlying limitation: this environment's network policy
 would need to allow those domains for direct verification to be possible.
@@ -41,7 +44,7 @@ Ranked by strength of evidence match against the candidate's actual CV
 this repo). Rank reflects fit given her career evidence, not confirmed
 live/open status — verify each posting is still open before applying.
 
-1. **[Exploration Geoscientist](https://careers.aramco.com/expat_uk/job/Exploration-Geoscientist/857034723/)** (857034723) — strongest match overall: prospect generation, maturation, and petroleum-systems risk/resource evaluation are a recurring, literal theme across nearly her whole career. No material gaps identified.
+1. **[Exploration Geoscientist](https://careers.aramco.com/expat_uk/job/Exploration-Geoscientist/855962823/)** (855962823 — replaces 857034723, confirmed filled 2026-08-29) — strongest match overall: prospect generation, maturation, and petroleum-systems risk/resource evaluation are a recurring, literal theme across nearly her whole career. Same department (EAED), same stated requirements as the filled req; match report from 857034723 applies. No material gaps identified. **Not yet independently click-verified as open — confirm before applying.**
 2. **[CO2 Storage Geoscientist](https://careers.aramco.com/expat_uk/job/CO2-Storage-Geoscientist/852796723/)** (852796723) — strongest match for her stated reservoir characterization/rock physics interest, especially after adding her PGNN coursework project (built on a CO2-storage saline-aquifer analogue dataset). Real gaps: no industry-level CCS project track record, no geomechanical/DFN/induced-seismicity experience.
 3. **[Seismic Depth Imaging Geophysicist](https://careers.aramco.com/expat_uk/job/Seismic-Depth-Imaging-Geophysicist/855971423/)** (855971423) — strong DIRECT match on the core 15+ year depth-imaging requirement (PSDM, FWI, velocity modeling). Gaps: no evidenced land/transition-zone or OBN work, no programming/software-dev exposure.
 4. **[Development Geophysicist](https://careers.aramco.com/expat_uk/job/Development-Geophysicist/850823823/)** (850823823) — strong technical overlap (well-tie, velocity modeling with uncertainty, AVO), but the posting's core bar — 10 years specifically as a reservoir/development geophysicist — isn't evidenced; her career reads as exploration/processing-centric.
@@ -58,7 +61,7 @@ fit only):
 
 | Title | Dept/Location | Req ID | URL | Consecutive misses |
 |---|---|---|---|---|
-| ★ Exploration Geoscientist | Eastern Area Exploration Department (EAED) | 857034723 | https://careers.aramco.com/expat_uk/job/Exploration-Geoscientist/857034723/ | 0 |
+| ★ Exploration Geoscientist | Eastern Area Exploration Department (EAED) | 855962823 | https://careers.aramco.com/expat_uk/job/Exploration-Geoscientist/855962823/ | 0 |
 | ★ Development Geophysicist | — | 850823823 | https://careers.aramco.com/expat_uk/job/Development-Geophysicist/850823823/ | 0 |
 | ★ CO2 Storage Geoscientist | Western Area & Strategic Exploration Dept (WA&SED) | 852796723 | https://careers.aramco.com/expat_uk/job/CO2-Storage-Geoscientist/852796723/ | 0 |
 | ★ Carbon Capture and Storage Specialist | — | 856013423 | https://careers.aramco.com/expat_uk/job/Carbon-Capture-and-Storage-Specialist/856013423/ | 0 |
@@ -72,9 +75,11 @@ fit only):
 | Geophysical Software Specialist | — | 852635123 | https://careers.aramco.com/expat_uk/job/Geophysical-Software-Specialist/852635123/ | 0 |
 | Clastic Sedimentologist and Stratigrapher | Clastic reservoir geology | 853339723 | https://careers.aramco.com/expat_uk/job/Clastic-Sedimentologist-and-Stratigrapher/853339723/ | 0 |
 
-## Recently dropped (presumed closed/unlisted — unverified)
+## Recently dropped
 
-_(none yet)_
+| Title | Req ID | Status | Date |
+|---|---|---|---|
+| Exploration Geoscientist | 857034723 | **CONFIRMED filled** — user clicked through to careers.aramco.com and saw "Sorry, this position has been filled." Replaced in Active table by 855962823 (same dept/requirements, not yet independently verified as open). | 2026-08-29 |
 
 ## Run log
 
@@ -97,3 +102,10 @@ _(none yet)_
   (855971723), and a second Development Geologist req (852794923,
   Southern Area Reservoir Characterization Dept) — all found via targeted
   `site:careers.aramco.com` searches on reservoir characterization terms.
+- **2026-08-29 (update 3)** — Candidate clicked the Exploration Geoscientist
+  link (857034723) and confirmed it now shows "Sorry, this position has
+  been filled" — the first hard confirmation this watch has had, since
+  search snippets can't detect this. Moved to Recently dropped as
+  CONFIRMED (not presumed). Found a same-department, same-requirements
+  posting under a new req ID (855962823) via fresh search and swapped it
+  into the #1 ranked slot, flagged as not yet independently verified.
