@@ -29,11 +29,17 @@ would need to allow those domains for direct verification to be possible.
 See the Claude Code on the web docs for how environment egress policy is
 configured.
 
+Candidate has flagged a role-type preference: **Exploration Geoscientist**
+and **Development Geophysicist** titles are the priority match categories
+going forward (marked ★ below); other titles are tracked but lower
+priority.
+
 ## Active postings (last checked: 2026-08-29)
 
 | Title | Dept/Location | Req ID | URL | Consecutive misses |
 |---|---|---|---|---|
-| Exploration Geoscientist | Eastern Area Exploration Department (EAED) | 857034723 | https://careers.aramco.com/expat_uk/job/Exploration-Geoscientist/857034723/ | 0 |
+| ★ Exploration Geoscientist | Eastern Area Exploration Department (EAED) | 857034723 | https://careers.aramco.com/expat_uk/job/Exploration-Geoscientist/857034723/ | 0 |
+| ★ Development Geophysicist | — | 850823823 | https://careers.aramco.com/expat_uk/job/Development-Geophysicist/850823823/ | 0 |
 | Exploration Geophysicist | Unconventional Exploration Division (UED) | 855939123 | https://careers.aramco.com/expat_us/job/Exploration-Geophysicist/855939123/ | 0 |
 | Seismic Depth Imaging Geophysicist | Geophysical Imaging Department | 855971423 | https://careers.aramco.com/expat_uk/job/Seismic-Depth-Imaging-Geophysicist/855971423/ | 0 |
 | Development Geologist | Field development | 852296323 | https://careers.aramco.com/expat_uk/job/Development-Geologist/852296323/ | 0 |
@@ -56,3 +62,7 @@ _(none yet)_
   postings indexed indefinitely. Confirmed via proxy status check that
   direct page verification is blocked in this environment; watch relies
   on WebSearch snippet visibility only.
+- **2026-08-29 (update)** — Added Development Geophysicist (850823823),
+  found via targeted search after candidate stated a preference for
+  Exploration Geoscientist / Development Geophysicist role types. Both
+  titles marked ★ priority for future searches and tailored-CV generation.
