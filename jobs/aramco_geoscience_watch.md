@@ -29,10 +29,10 @@ would need to allow those domains for direct verification to be possible.
 See the Claude Code on the web docs for how environment egress policy is
 configured.
 
-Candidate has flagged a role-type preference: **Exploration Geoscientist**
-and **Development Geophysicist** titles are the priority match categories
-going forward (marked ★ below); other titles are tracked but lower
-priority.
+Candidate priority (updated 2026-08-29): **reservoir characterization and
+rock physics** is now the stated main interest, alongside **Exploration
+Geoscientist** and **Development Geophysicist** titles. Priority postings
+are marked ★; other titles are tracked but lower priority.
 
 ## Active postings (last checked: 2026-08-29)
 
@@ -40,12 +40,16 @@ priority.
 |---|---|---|---|---|
 | ★ Exploration Geoscientist | Eastern Area Exploration Department (EAED) | 857034723 | https://careers.aramco.com/expat_uk/job/Exploration-Geoscientist/857034723/ | 0 |
 | ★ Development Geophysicist | — | 850823823 | https://careers.aramco.com/expat_uk/job/Development-Geophysicist/850823823/ | 0 |
+| ★ CO2 Storage Geoscientist | Western Area & Strategic Exploration Dept (WA&SED) | 852796723 | https://careers.aramco.com/expat_uk/job/CO2-Storage-Geoscientist/852796723/ | 0 |
+| ★ Carbon Capture and Storage Specialist | — | 856013423 | https://careers.aramco.com/expat_uk/job/Carbon-Capture-and-Storage-Specialist/856013423/ | 0 |
+| Petrophysicist | Eastern Unconventional Characterization Division (EUCD) | 857285823 | https://careers.aramco.com/expat_uk/job/Petrophysicist/857285823/ | 0 |
+| 3D Geological Modeler | Southern Area Reservoir Characterization Dept | 855971723 | https://careers.aramco.com/expat_us/job/3D-Geological-Modeler/855971723/ | 0 |
 | Exploration Geophysicist | Unconventional Exploration Division (UED) | 855939123 | https://careers.aramco.com/expat_us/job/Exploration-Geophysicist/855939123/ | 0 |
 | Seismic Depth Imaging Geophysicist | Geophysical Imaging Department | 855971423 | https://careers.aramco.com/expat_uk/job/Seismic-Depth-Imaging-Geophysicist/855971423/ | 0 |
 | Development Geologist | Field development | 852296323 | https://careers.aramco.com/expat_uk/job/Development-Geologist/852296323/ | 0 |
+| Development Geologist | Southern Area Reservoir Characterization Dept, Central Arabia Division | 852794923 | https://careers.aramco.com/expat_uk/job/Development-Geologist/852794923/ | 0 |
 | Field Development Geologist | Manifa/AFK & Satellite Fields | 857076523 | https://careers.aramco.com/expat_uk/job/Field-Development-Geologist/857076523/ | 0 |
 | Geophysical Software Specialist | — | 852635123 | https://careers.aramco.com/expat_uk/job/Geophysical-Software-Specialist/852635123/ | 0 |
-| CO2 Storage Geoscientist | CCS Projects | 852796723 | https://careers.aramco.com/expat_uk/job/CO2-Storage-Geoscientist/852796723/ | 0 |
 | Clastic Sedimentologist and Stratigrapher | Clastic reservoir geology | 853339723 | https://careers.aramco.com/expat_uk/job/Clastic-Sedimentologist-and-Stratigrapher/853339723/ | 0 |
 
 ## Recently dropped (presumed closed/unlisted — unverified)
@@ -66,3 +70,10 @@ _(none yet)_
   found via targeted search after candidate stated a preference for
   Exploration Geoscientist / Development Geophysicist role types. Both
   titles marked ★ priority for future searches and tailored-CV generation.
+- **2026-08-29 (update 2)** — Candidate's main interest updated to
+  reservoir characterization and rock physics. Elevated CO2 Storage
+  Geoscientist to ★ and added: Carbon Capture and Storage Specialist
+  (★, 856013423), Petrophysicist (857285823), 3D Geological Modeler
+  (855971723), and a second Development Geologist req (852794923,
+  Southern Area Reservoir Characterization Dept) — all found via targeted
+  `site:careers.aramco.com` searches on reservoir characterization terms.
