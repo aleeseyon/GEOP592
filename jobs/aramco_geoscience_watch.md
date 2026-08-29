@@ -34,6 +34,26 @@ rock physics** is now the stated main interest, alongside **Exploration
 Geoscientist** and **Development Geophysicist** titles. Priority postings
 are marked ★; other titles are tracked but lower priority.
 
+## Top ranked matches (direct links)
+
+Ranked by strength of evidence match against the candidate's actual CV
+(full evidence matrix in each linked match report, kept locally — not in
+this repo). Rank reflects fit given her career evidence, not confirmed
+live/open status — verify each posting is still open before applying.
+
+1. **[Exploration Geoscientist](https://careers.aramco.com/expat_uk/job/Exploration-Geoscientist/857034723/)** (857034723) — strongest match overall: prospect generation, maturation, and petroleum-systems risk/resource evaluation are a recurring, literal theme across nearly her whole career. No material gaps identified.
+2. **[CO2 Storage Geoscientist](https://careers.aramco.com/expat_uk/job/CO2-Storage-Geoscientist/852796723/)** (852796723) — strongest match for her stated reservoir characterization/rock physics interest, especially after adding her PGNN coursework project (built on a CO2-storage saline-aquifer analogue dataset). Real gaps: no industry-level CCS project track record, no geomechanical/DFN/induced-seismicity experience.
+3. **[Seismic Depth Imaging Geophysicist](https://careers.aramco.com/expat_uk/job/Seismic-Depth-Imaging-Geophysicist/855971423/)** (855971423) — strong DIRECT match on the core 15+ year depth-imaging requirement (PSDM, FWI, velocity modeling). Gaps: no evidenced land/transition-zone or OBN work, no programming/software-dev exposure.
+4. **[Development Geophysicist](https://careers.aramco.com/expat_uk/job/Development-Geophysicist/850823823/)** (850823823) — strong technical overlap (well-tie, velocity modeling with uncertainty, AVO), but the posting's core bar — 10 years specifically as a reservoir/development geophysicist — isn't evidenced; her career reads as exploration/processing-centric.
+
+Not yet run through a full evidence-matrix match report (found via the
+reservoir-characterization search expansion, ranked provisionally by title
+fit only):
+
+5. **[Carbon Capture and Storage Specialist](https://careers.aramco.com/expat_uk/job/Carbon-Capture-and-Storage-Specialist/856013423/)** (856013423) — likely similar profile to #2 above.
+6. **[3D Geological Modeler](https://careers.aramco.com/expat_us/job/3D-Geological-Modeler/855971723/)** (855971723) — reservoir characterization department, but requires a Geology (not Geophysics) degree and drilling-ops/coring experience she hasn't evidenced.
+7. **[Petrophysicist](https://careers.aramco.com/expat_uk/job/Petrophysicist/857285823/)** (857285823) — relevant department (reservoir characterization), but a title/discipline mismatch (she's a geophysicist, not a petrophysicist).
+
 ## Active postings (last checked: 2026-08-29)
 
 | Title | Dept/Location | Req ID | URL | Consecutive misses |
