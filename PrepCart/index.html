@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PrepCart — plan meals, build your grocery list</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥕</text></svg>" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="hero">
+    <div class="hero-inner">
+      <div class="brand">🥕 PrepCart</div>
+      <p class="tagline">Plan your week's meals. We build the grocery list. You check out at your favorite store.</p>
+    </div>
+  </header>
+
+  <main>
+
+    <!-- 1. Inspiration -->
+    <section id="inspire" class="section">
+      <div class="section-head">
+        <h2>Get inspired</h2>
+        <p>Easy, nutritious meals built for prepping ahead — tap any recipe to drop it into your weekly plan.</p>
+      </div>
+      <div id="gallery-tabs" class="tabs">
+        <button data-filter="all" class="active">All</button>
+        <button data-filter="breakfast">Breakfast</button>
+        <button data-filter="lunch">Lunch</button>
+        <button data-filter="dinner">Dinner</button>
+      </div>
+      <div id="gallery-status" class="status-toast"></div>
+      <div id="gallery-grid" class="recipe-grid"></div>
+    </section>
+
+    <!-- 2. Weekly planner -->
+    <section id="planner" class="section">
+      <div class="section-head">
+        <h2>Your week</h2>
+        <p>Breakfast, lunch, and dinner for all 7 days. Click a slot to fill it, or the × to clear it.</p>
+      </div>
+      <div id="planner-grid" class="planner-grid"></div>
+    </section>
+
+    <!-- 3. Grocery list -->
+    <section id="grocery" class="section">
+      <div class="section-head">
+        <h2>Your grocery list</h2>
+        <p>Built automatically from your planned meals. Uncheck anything you already have at home.</p>
+      </div>
+      <div id="grocery-list" class="grocery-list"></div>
+
+      <div id="export-panel" class="export-panel" hidden>
+        <h3>Get it to the store</h3>
+        <div class="export-actions">
+          <button id="copy-list-btn" class="btn">Copy list</button>
+          <button id="download-txt-btn" class="btn">Download .txt</button>
+          <button id="download-csv-btn" class="btn">Download .csv</button>
+          <span id="copy-status" class="status-toast"></span>
+        </div>
+
+        <div class="store-send">
+          <label for="store-select">Send to a partner store</label>
+          <div class="store-send-row">
+            <select id="store-select"></select>
+            <button id="send-store-btn" class="btn btn-primary">Send list</button>
+          </div>
+          <div id="send-result"></div>
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Recipe picker modal -->
+  <div id="picker-modal" class="modal" hidden>
+    <div class="modal-card">
+      <div class="modal-head">
+        <h3 id="picker-title">Choose a recipe</h3>
+        <button id="picker-close" class="modal-close" aria-label="Close">×</button>
+      </div>
+      <div id="picker-list" class="recipe-grid"></div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="footer-inner">
+      <p><strong>For grocery partners:</strong> PrepCart connects meal planners directly to your store at the
+      moment they decide what to buy. Partner stores appear as a one-tap checkout destination in every user's
+      grocery list under a paid placement subscription. Get in touch to be added to the store list.</p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
