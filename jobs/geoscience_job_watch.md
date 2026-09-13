@@ -41,18 +41,22 @@ employers as they surface. Only counting **senior-level** postings (her
 profile is 17+ years) — early-career/graduate programme listings are
 noted but not tracked as real leads.
 
-## Candidate leads (2026-09-13, unverified — click through before investing more time)
+## Candidate leads (updated 2026-09-13, unverified — click through before investing more time)
 
 | Company | Title | Fit note | Link |
 |---|---|---|---|
-| TGS | Depth Imaging Manager | Strong potential fit — her whole career centers on PSDM/depth imaging leadership (Houston, Gabon, Seismic Processing Group roles); seniority level unconfirmed | (found via search, direct URL not yet isolated — needs a follow-up search pass) |
-| Viridien (CGG) | Research Geophysicist / Imaging Geophysicist, Subsurface Imaging | Plausible fit — subsurface imaging R&D overlaps her depth-imaging and now PGNN/ML research background; several open reqs, likely mixed seniority | https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Research-Geophysicist_JR101276-2 ; https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Imaging-Geophysicist_JR100313 |
+| **TGS** | **Staff Geophysicist (R718)** | **Best match found so far** — full CV + cover letter + match report built. Mentoring/QC/imaging-leadership pattern from her CV lines up directly with the posting's responsibilities. Houston-based; relocation/remote status unconfirmed. | https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/Staff-Geophysicist_R718 |
+| TGS | Sr Advising Geophysicist II (R674) | Not yet fully evaluated — plausible senior-level fit, same Houston HQ | https://tgs.wd1.myworkdayjobs.com/TGS_External/job/Houston-Operational-Headquarters---77041/Sr-Advising-Geophysicist-II_R674 |
+| TGS | Geophysicist – Processing & Imaging (R714) | Not yet fully evaluated — processing/imaging core matches her background, title suggests possibly less senior than Staff | https://tgs.wd1.myworkdayjobs.com/TGS_External/job/Houston-Operational-Headquarters---77041/Geophysicist---Processing---Imaging_R714 |
+| TGS | Principal Research Geophysicist | Exciting on paper (imaging + data science, echoes her PGNN project) but requires strong C/C++/Fortran and GPU/parallel-computing programming — not evidenced on her CV. Weaker fit than it looks; don't over-invest without addressing that gap first. | (req ID not isolated yet) |
+| Viridien (CGG) | Research Geophysicist (JR101276) / Imaging Geophysicist (JR100313, JR100639, JR101112) | Plausible fit — subsurface imaging R&D overlaps her depth-imaging and now PGNN/ML research background; seniority per req needs checking, several similarly-named reqs exist at different levels | https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Research-Geophysicist_JR101276-2 |
 | Baker Hughes | Consulting (reservoir-driven solutions, field development/reserves) | Vague listing, not a specific req yet — needs a targeted follow-up search | https://careers.bakerhughes.com/ (general) |
 | Halliburton | Reservoir Engineering & Geoscience Consultant, Unified Ensemble Modeling (UEM) | Only wants 5-10 yrs — likely under-leveled for her 17+ yrs experience; reservoir characterization overlap is real | https://careers.halliburton.com/job/kuala-lumpur/reservoir-engineering-and-geoscience-consultant/543/99162381168 |
 
 Noted but not tracked (early-career/graduate level, wrong seniority):
 Halliburton Geoscientist II / Assoc II / Solutions Geoscientist I; SLB
-Early Careers Geophysicist; Viridien Graduate Roles.
+Early Careers Geophysicist; Viridien Graduate/Intern Imaging Geophysicist
+roles (several).
 
 ## Aramco (now confirmed dead — kept for the lesson, not as leads)
 
@@ -88,3 +92,11 @@ unknown, not as leads, until re-checked.
   surfaced TGS Depth Imaging Manager and Viridien Research/Imaging
   Geophysicist as the two most promising senior-level leads pending
   candidate verification and a full match report.
+- **2026-09-13 (update)** — Got direct TGS req links (site had been
+  underindexed in the first pass). Built a full match report + tailored
+  CV + cover letter for **TGS Staff Geophysicist (R718)** — currently the
+  strongest evidenced match across all companies tracked. Added Sr
+  Advising Geophysicist II (R674) and Geophysicist – Processing & Imaging
+  (R714) as further TGS leads not yet evaluated. Flagged TGS Principal
+  Research Geophysicist as a weaker fit than its title suggests — it
+  wants C/C++/Fortran and GPU programming depth she hasn't evidenced.
