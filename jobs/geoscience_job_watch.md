@@ -72,10 +72,17 @@ noted but not tracked as real leads.
 |---|---|---|---|
 | ADNOC | Senior Geophysicist | Abu Dhabi, UAE | Candidate checked directly, 2026-09-16. Was the strongest match of this whole search; CV/cover letter/match report already sent are now dead — do not reuse or resend. |
 
-## Candidate leads (updated 2026-09-15, location-filtered — Europe, Trinidad & Tobago, or GCC only; unverified, click through before investing more time)
+## Candidate leads (updated 2026-09-16, location-filtered — Europe, Trinidad & Tobago, or GCC only; unverified, click through before investing more time)
+
+Candidate specifically wants more roles like the ADNOC one: operator-side
+Senior Geophysicist positions emphasizing velocity modeling, VSP,
+quantitative interpretation, or prospect maturation/risking, at GCC/
+Europe/Trinidad operators.
 
 | Company | Title | Location | Fit note | Link |
 |---|---|---|---|---|
+| **QatarEnergy** | **Sr. Geophysicist / Sr. Exploration Geophysicist, Upstream International Exploration (UIX)** | Doha, Qatar (GCC) | **Strong match, official direct link** (not an aggregator). Prospect maturation and risking is a near-verbatim match to her most-repeated CV phrase; mentoring well-documented. Full CV + cover letter + match report built. Gap: no work-program/budget input evidenced. | https://careerportal.qatarenergy.qa/jobs/5226?lang=en-us |
+| ADNOC | Senior Geophysicist, Interpretation (Technology & Innovation dept — distinct from the now-filled Distribution req) | Abu Dhabi, UAE (GCC) | Coordinates 1D/2D/3D/4D geophysical, micro-seismic and VSP data interpretation, synthetic seismograms, seismic attribute volumes, AVO analysis — strong fit (AVO/attributes/VSP all DIRECT evidence), but no isolated direct req link yet, only mentioned in aggregate search results. Worth a follow-up search for the specific req. | https://jobs.adnoc.ae/us/en/search-results (search there directly) |
 | Heritage Petroleum | Geophysicist (req IDs 1519, 1395 — titles not confirmed, portal is login-gated) | Trinidad & Tobago | Promising personal-history fit — she worked Trinidad exploration 2007-2009 (Repsol) in the same basin. Portal blocks search from seeing content; she needs to check directly. | https://career41.sapsf.com/career?company=heritagepe |
 | TGS | Depth Imaging Manager | Oslo, Norway | Currently appears held by a named person (Sören Naumann per LinkedIn) — likely not an open req right now, but confirms TGS has a Norway office worth periodic re-checking | — |
 | Shearwater GeoServices | (no confirmed senior opening yet) | Gatwick, UK / Norway | Company has real senior geoscience leadership (Global Head of Geoscience bio confirms UK/Norway presence) but only a graduate-level "Processing and Imaging" req surfaced so far | — |
@@ -95,6 +102,20 @@ despite the 15-year bar. Kuwait "Geoscience Project Lead" never resolved
 to an actual job posting, only a Rigzone category page; KOC/Schlumberger
 Kuwait geology roles found are generic, no specific senior geophysics req
 isolated. Neither is worth CV effort yet.
+
+## Run log (continued)
+
+- **2026-09-16 (update)** — Candidate asked for "more jobs like the
+  ADNOC one" and to be notified of new openings. Searched specifically
+  for operator-side senior geophysicist roles at GCC operators matching
+  that profile (velocity modeling, VSP, quantitative interpretation,
+  prospect risking). Found **QatarEnergy Sr. Geophysicist (Doha)** via
+  QatarEnergy's own official career portal — strong match, full CV +
+  cover letter + match report built. Also found a second, distinct ADNOC
+  Senior Geophysicist req (Technology & Innovation dept, "Interpretation"
+  — different from the filled Distribution one) via aggregate search
+  results, but couldn't isolate a direct single-req link yet; flagged for
+  a follow-up search directly on jobs.adnoc.ae.
 
 ## Aramco (now confirmed dead — kept for the lesson, not as leads)
 
