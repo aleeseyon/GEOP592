@@ -89,20 +89,29 @@ noted but not tracked as real leads.
 | QatarEnergy | Sr. Geophysicist, UIX | Doha, Qatar | Candidate checked directly, 2026-09-16 — link broken, job no longer exists. Second confirmed-dead lead in a row despite being sourced from the employer's own official portal, not an aggregator. CV/cover letter/match report already sent are now dead — do not reuse or resend. |
 | Aramco | Senior QI Geophysicist — Relocate to Saudi Arabia | Saudi Arabia | Candidate checked directly, 2026-09-16 — "no longer accepting applications." Third confirmed-dead lead in a row, this time sourced from LinkedIn. No CV/cover letter had been built for this one. |
 
-## Candidate leads (updated 2026-09-16, location-filtered — Europe, Trinidad & Tobago, or GCC only; unverified, click through before investing more time)
+## Candidate leads (updated 2026-09-16, location-filtered — Europe, Trinidad & Tobago, or GCC only)
 
-Candidate specifically wants more roles like the ADNOC one: operator-side
-Senior Geophysicist positions emphasizing velocity modeling, VSP,
-quantitative interpretation, or prospect maturation/risking, at GCC/
-Europe/Trinidad operators.
+Flat list, no ranking, no confidence claims — none of these are page-verified.
+Candidate confirms availability herself; CV/cover letter only gets built
+after that confirmation.
 
-| Company | Title | Location | Fit note | Link |
+| Company | Title | Location | Source | Link |
 |---|---|---|---|---|
-| ADNOC | Senior Geophysicist, Interpretation (Technology & Innovation dept — distinct from the now-filled Distribution req) | Abu Dhabi, UAE (GCC) | Coordinates 1D/2D/3D/4D geophysical, micro-seismic and VSP data interpretation, synthetic seismograms, seismic attribute volumes, AVO analysis — strong fit (AVO/attributes/VSP all DIRECT evidence), but no isolated direct req link yet, only mentioned in aggregate search results. Worth a follow-up search for the specific req. | https://jobs.adnoc.ae/us/en/search-results (search there directly) |
-| Heritage Petroleum | Geophysicist (req IDs 1519, 1395 — titles not confirmed, portal is login-gated) | Trinidad & Tobago | Promising personal-history fit — she worked Trinidad exploration 2007-2009 (Repsol) in the same basin. Portal blocks search from seeing content; she needs to check directly. | https://career41.sapsf.com/career?company=heritagepe |
-| TGS | Depth Imaging Manager | Oslo, Norway | Currently appears held by a named person (Sören Naumann per LinkedIn) — likely not an open req right now, but confirms TGS has a Norway office worth periodic re-checking | — |
-| Shearwater GeoServices | (no confirmed senior opening yet) | Gatwick, UK / Norway | Company has real senior geoscience leadership (Global Head of Geoscience bio confirms UK/Norway presence) but only a graduate-level "Processing and Imaging" req surfaced so far | — |
-| Halliburton (Landmark) | Junior G&G Onsite Consultant | Stavanger, Norway | Wrong seniority (junior) — confirms Halliburton has a Stavanger office, worth re-checking for senior openings | — |
+| Aramco | Exploration Geoscientist (Prospect Generation) — Relocate to Saudi Arabia | Saudi Arabia | LinkedIn | https://uk.linkedin.com/jobs/view/exploration-geoscientist-prospect-generation-relocate-to-saudi-arabia-at-aramco-4140667119 |
+| Aramco | Prospect Generator Exploration Geoscientist — Relocate to Saudi Arabia | Saudi Arabia | LinkedIn | https://uk.linkedin.com/jobs/view/prospect-generator-exploration-geoscientist-relocate-to-saudi-arabia-at-aramco-4146348184 |
+| Aramco | Exploration Geophysicist — Relocate to Saudi Arabia | Saudi Arabia | LinkedIn | https://www.linkedin.com/jobs/view/exploration-geophysicist-relocate-to-saudi-arabia-at-aramco-4120231241 |
+| Aramco | Exploration Geoscientist — Relocate to Saudi Arabia (permanent, expat relocation package) | Saudi Arabia | LinkedIn | https://www.linkedin.com/jobs/view/exploration-geoscientist-relocate-to-saudi-arabia-permanent-expat-relocation-package-at-aramco-4342899325 |
+| Aramco | Senior Regional Exploration Resource Analyst — Relocate to Saudi Arabia | Saudi Arabia | LinkedIn | https://uk.linkedin.com/jobs/view/senior-regional-exploration-resource-analyst-relocate-to-saudi-arabia-at-aramco-3706322629 |
+| ADNOC | Senior Geophysicist, Interpretation (Technology & Innovation dept) | Abu Dhabi, UAE | Aggregate search only, no isolated req link yet | https://jobs.adnoc.ae/us/en/search-results (search there directly) |
+| Heritage Petroleum | Geophysicist (req IDs 1519, 1395 — titles not visible, portal login-gated) | Trinidad & Tobago | Employer portal | https://career41.sapsf.com/career?company=heritagepe |
+| TGS | Depth Imaging Manager (LinkedIn shows this role currently held by a named person — may not be an open req) | Oslo, Norway | LinkedIn profile mention | — |
+| Shearwater GeoServices | No senior-level opening found this pass, only graduate-level | Gatwick, UK / Norway | — | — |
+| Halliburton (Landmark) | Junior G&G Onsite Consultant (wrong seniority, confirms Stavanger office exists) | Stavanger, Norway | — | — |
+| Perenco | Lead Geoscientist | Trinidad & Tobago | Energy Chamber of T&T vacancy list | Deadline already passed (2026-07-08) per listing — not live |
+
+Not tracked as leads (minerals/geotech, not petroleum geophysics — lower
+fit despite "Relocate to Saudi Arabia" pattern): Aramco Senior Exploration
+Minerals Geologist, Aramco Senior Geotechnical Specialist.
 | Baker Hughes | (no confirmed opening) | Aberdeen, UK (confirmed office) | Company confirmed active in Aberdeen (other engineering roles found); no geoscience-specific senior req surfaced yet | — |
 | Shell Trinidad, bpTT | (no specific req found yet) | Trinidad & Tobago | Both confirmed active employers of geoscientists/geophysicists in Trinidad; general careers pages only so far, no specific req isolated | https://www.shell.com.tt/careers.html |
 
@@ -118,20 +127,6 @@ despite the 15-year bar. Kuwait "Geoscience Project Lead" never resolved
 to an actual job posting, only a Rigzone category page; KOC/Schlumberger
 Kuwait geology roles found are generic, no specific senior geophysics req
 isolated. Neither is worth CV effort yet.
-
-## Run log (continued)
-
-- **2026-09-16 (update)** — Candidate asked for "more jobs like the
-  ADNOC one" and to be notified of new openings. Searched specifically
-  for operator-side senior geophysicist roles at GCC operators matching
-  that profile (velocity modeling, VSP, quantitative interpretation,
-  prospect risking). Found **QatarEnergy Sr. Geophysicist (Doha)** via
-  QatarEnergy's own official career portal — strong match, full CV +
-  cover letter + match report built. Also found a second, distinct ADNOC
-  Senior Geophysicist req (Technology & Innovation dept, "Interpretation"
-  — different from the filled Distribution one) via aggregate search
-  results, but couldn't isolate a direct single-req link yet; flagged for
-  a follow-up search directly on jobs.adnoc.ae.
 
 ## Aramco (now confirmed dead — kept for the lesson, not as leads)
 
@@ -188,12 +183,41 @@ unknown, not as leads, until re-checked.
   (Aberdeen, Stavanger, Oslo, Gatwick) without yet isolating open senior
   reqs there — flagged for a follow-up pass, along with Qatar/Kuwait GCC
   leads seen in snippets but not yet resolved to direct links.
-- **2026-09-16** — Candidate confirmed the ADNOC Senior Geophysicist
+- **2026-09-16 (a)** — Candidate confirmed the ADNOC Senior Geophysicist
   posting is now filled — the strongest match found this session is dead.
   Materials already sent must not be reused. Chased Qatar/Kuwait leads
   from the prior entry: both turned out weak (Qatar lead is a
   civil/hydrogeology firm role, not petroleum geophysics; Kuwait lead
-  never resolved past a job-board category page). No new strong,
-  location-compliant lead found this pass — Heritage Petroleum (Trinidad)
-  remains the best open thread, but its portal is login-gated and needs
-  the candidate to check directly.
+  never resolved past a job-board category page).
+- **2026-09-16 (b)** — Candidate asked for "more jobs like the ADNOC
+  one." Searched for operator-side senior geophysicist roles at GCC
+  operators matching that profile. Found **QatarEnergy Sr. Geophysicist
+  (Doha)** via QatarEnergy's own official career portal — full CV + cover
+  letter + match report built. Also found a second, distinct ADNOC
+  Senior Geophysicist req (Technology & Innovation dept, "Interpretation"
+  — different from the filled Distribution one) via aggregate search
+  results, but couldn't isolate a direct single-req link yet.
+- **2026-09-16 (c)** — Candidate confirmed the QatarEnergy link is broken
+  and the job no longer exists — second confirmed-dead lead in a row,
+  this time from the employer's own official portal. Added LinkedIn as a
+  search source per candidate request; found an Aramco Senior QI
+  Geophysicist / Saudi Arabia relocation lead via LinkedIn, surfaced but
+  deliberately not built into a CV package given the track record.
+- **2026-09-16 (d)** — Candidate confirmed the Aramco QI Geophysicist
+  LinkedIn posting is also dead ("no longer accepting applications") —
+  third confirmed-dead lead in a row across three different sources
+  (aggregator, official portal, LinkedIn). Candidate explicitly decided:
+  keep searching, but stop presenting any confidence/ranking language and
+  stop building CV/cover letter packages until she has personally
+  confirmed a specific posting is live. Tracker restructured accordingly
+  — "Candidate leads" is now a flat, neutral list with no fit-strength
+  claims.
+- **2026-09-16 (e)** — Candidate asked to keep looking. Ran a fresh pass
+  across LinkedIn, Trinidad energy-sector listings, and Europe. Found
+  several more Aramco "Relocate to Saudi Arabia" LinkedIn postings
+  (Exploration Geoscientist x2 variants, Exploration Geophysicist, Senior
+  Regional Exploration Resource Analyst — Aramco runs many concurrent
+  reqs through this recruiting channel) and a Perenco Lead Geoscientist
+  role in Trinidad whose application deadline had already passed per the
+  listing. No CV/cover letter built for any of these — added to the flat
+  candidate-leads list only, pending candidate verification.
