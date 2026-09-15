@@ -26,16 +26,20 @@ that, this file stopped trying to rank "top matches" with false
 confidence — it lists candidate leads, and match-report depth is spent
 only on ones the candidate confirms are worth the effort.
 
-**Track record so far: 2 for 2 dead.** Both full application packages
-built this session (ADNOC Senior Geophysicist, QatarEnergy Sr.
-Geophysicist) turned out to already be gone by the time the candidate
-checked — including QatarEnergy, sourced from the employer's own official
-career portal, not an aggregator. "Official site" is not a reliable
-signal either; nothing is, without a click. Per candidate request
-(2026-09-16), **LinkedIn Jobs is now also a search source** going
-forward — worth trying since LinkedIn listings sometimes surface "no
-longer accepting applications" state more visibly than a company's own
-ATS, though this is unverified as an actual improvement yet.
+**Track record so far: 3 for 3 dead.** ADNOC Senior Geophysicist,
+QatarEnergy Sr. Geophysicist (sourced from the employer's own official
+portal), and Aramco Senior QI Geophysicist (sourced from LinkedIn) all
+turned out to already be closed by the time the candidate checked.
+Neither "official site" nor "LinkedIn" turned out to be a reliable
+availability signal — every source tried so far has failed the same way.
+This is a structural limitation, not a sourcing problem: this environment
+cannot fetch any of these pages directly (network egress blocked to every
+career site and job board, confirmed via the agent proxy status check),
+so nothing surfaced here has ever been page-verified, regardless of
+source. As of 2026-09-16 the candidate asked not to be shown unavailable
+or filled positions — see the discussion with her directly about how the
+watch proceeds given this hard constraint, since it cannot be solved by
+switching sources again.
 
 ## Candidate priorities
 
@@ -83,6 +87,7 @@ noted but not tracked as real leads.
 |---|---|---|---|
 | ADNOC | Senior Geophysicist | Abu Dhabi, UAE | Candidate checked directly, 2026-09-16. Was the strongest match of this whole search; CV/cover letter/match report already sent are now dead — do not reuse or resend. |
 | QatarEnergy | Sr. Geophysicist, UIX | Doha, Qatar | Candidate checked directly, 2026-09-16 — link broken, job no longer exists. Second confirmed-dead lead in a row despite being sourced from the employer's own official portal, not an aggregator. CV/cover letter/match report already sent are now dead — do not reuse or resend. |
+| Aramco | Senior QI Geophysicist — Relocate to Saudi Arabia | Saudi Arabia | Candidate checked directly, 2026-09-16 — "no longer accepting applications." Third confirmed-dead lead in a row, this time sourced from LinkedIn. No CV/cover letter had been built for this one. |
 
 ## Candidate leads (updated 2026-09-16, location-filtered — Europe, Trinidad & Tobago, or GCC only; unverified, click through before investing more time)
 
@@ -94,7 +99,6 @@ Europe/Trinidad operators.
 | Company | Title | Location | Fit note | Link |
 |---|---|---|---|---|
 | ADNOC | Senior Geophysicist, Interpretation (Technology & Innovation dept — distinct from the now-filled Distribution req) | Abu Dhabi, UAE (GCC) | Coordinates 1D/2D/3D/4D geophysical, micro-seismic and VSP data interpretation, synthetic seismograms, seismic attribute volumes, AVO analysis — strong fit (AVO/attributes/VSP all DIRECT evidence), but no isolated direct req link yet, only mentioned in aggregate search results. Worth a follow-up search for the specific req. | https://jobs.adnoc.ae/us/en/search-results (search there directly) |
-| Aramco | Senior QI Geophysicist — Relocate to Saudi Arabia | Saudi Arabia (GCC), permanent/residential, posted via a London LinkedIn listing | Found via LinkedIn per candidate's request to add it as a source. QI = quantitative interpretation, one of her most direct evidence areas (AVO, seismic attributes, QI training). **Not yet verified live and no CV/cover letter built yet — given 2 for 2 dead so far, check this one before more effort goes in.** | https://uk.linkedin.com/jobs/view/senior-qi-geophysicist-relocate-to-saudi-arabia-at-aramco-3776623602 |
 | Heritage Petroleum | Geophysicist (req IDs 1519, 1395 — titles not confirmed, portal is login-gated) | Trinidad & Tobago | Promising personal-history fit — she worked Trinidad exploration 2007-2009 (Repsol) in the same basin. Portal blocks search from seeing content; she needs to check directly. | https://career41.sapsf.com/career?company=heritagepe |
 | TGS | Depth Imaging Manager | Oslo, Norway | Currently appears held by a named person (Sören Naumann per LinkedIn) — likely not an open req right now, but confirms TGS has a Norway office worth periodic re-checking | — |
 | Shearwater GeoServices | (no confirmed senior opening yet) | Gatwick, UK / Norway | Company has real senior geoscience leadership (Global Head of Geoscience bio confirms UK/Norway presence) but only a graduate-level "Processing and Imaging" req surfaced so far | — |
