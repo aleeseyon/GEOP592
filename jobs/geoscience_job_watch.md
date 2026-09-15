@@ -66,11 +66,16 @@ noted but not tracked as real leads.
 | Halliburton | Reservoir Eng. & Geoscience Consultant, UEM | Kuala Lumpur, Malaysia | Outside authorized geographies |
 | Baker Hughes | Consulting (reservoir-driven solutions) | Unconfirmed | Never had a location confirmed — re-search if pursuing Baker Hughes |
 
+## CONFIRMED FILLED (location-compliant, but the role itself is gone — do not resend materials)
+
+| Company | Title | Location | Verified |
+|---|---|---|---|
+| ADNOC | Senior Geophysicist | Abu Dhabi, UAE | Candidate checked directly, 2026-09-16. Was the strongest match of this whole search; CV/cover letter/match report already sent are now dead — do not reuse or resend. |
+
 ## Candidate leads (updated 2026-09-15, location-filtered — Europe, Trinidad & Tobago, or GCC only; unverified, click through before investing more time)
 
 | Company | Title | Location | Fit note | Link |
 |---|---|---|---|---|
-| **ADNOC** | **Senior Geophysicist** | Abu Dhabi, UAE (GCC) | **Best match found this session.** Velocity modeling/depth conversion, VSP campaign QC, quantitative interpretation — full CV + cover letter + match report built. One real gap: geo-mechanical studies (training only, no job experience). | https://www.gulftalent.com/uae/jobs/senior-geophysicist-384576 (aggregator listing — verify on ADNOC's own careers portal too) |
 | Heritage Petroleum | Geophysicist (req IDs 1519, 1395 — titles not confirmed, portal is login-gated) | Trinidad & Tobago | Promising personal-history fit — she worked Trinidad exploration 2007-2009 (Repsol) in the same basin. Portal blocks search from seeing content; she needs to check directly. | https://career41.sapsf.com/career?company=heritagepe |
 | TGS | Depth Imaging Manager | Oslo, Norway | Currently appears held by a named person (Sören Naumann per LinkedIn) — likely not an open req right now, but confirms TGS has a Norway office worth periodic re-checking | — |
 | Shearwater GeoServices | (no confirmed senior opening yet) | Gatwick, UK / Norway | Company has real senior geoscience leadership (Global Head of Geoscience bio confirms UK/Norway presence) but only a graduate-level "Processing and Imaging" req surfaced so far | — |
@@ -80,10 +85,16 @@ noted but not tracked as real leads.
 
 Europe searches so far surfaced company presence (Aberdeen, Stavanger,
 Oslo, Gatwick) but not confirmed open senior-level reqs with direct
-links — worth another focused pass. GCC beyond UAE (Qatar, Kuwait, Oman,
-Bahrain) showed senior listings in search snippets (Qatar Senior
-Geologist/Geophysicist 15+ yrs, Kuwait Geoscience Project Lead 15+ yrs)
-but without isolated direct links yet — next pass should chase these down.
+links — worth another focused pass.
+
+Qatar/Kuwait chased down 2026-09-16, both weak: the Qatar "Senior
+Geologist" lead (Khatib & Alami, https://www.gulftalent.com/qatar/jobs/senior-geologist-406173)
+is a civil/environmental engineering firm role — hydrogeology, groundwater
+modelling, karst, geotechnical — not petroleum geophysics, poor fit
+despite the 15-year bar. Kuwait "Geoscience Project Lead" never resolved
+to an actual job posting, only a Rigzone category page; KOC/Schlumberger
+Kuwait geology roles found are generic, no specific senior geophysics req
+isolated. Neither is worth CV effort yet.
 
 ## Aramco (now confirmed dead — kept for the lesson, not as leads)
 
@@ -140,3 +151,12 @@ unknown, not as leads, until re-checked.
   (Aberdeen, Stavanger, Oslo, Gatwick) without yet isolating open senior
   reqs there — flagged for a follow-up pass, along with Qatar/Kuwait GCC
   leads seen in snippets but not yet resolved to direct links.
+- **2026-09-16** — Candidate confirmed the ADNOC Senior Geophysicist
+  posting is now filled — the strongest match found this session is dead.
+  Materials already sent must not be reused. Chased Qatar/Kuwait leads
+  from the prior entry: both turned out weak (Qatar lead is a
+  civil/hydrogeology firm role, not petroleum geophysics; Kuwait lead
+  never resolved past a job-board category page). No new strong,
+  location-compliant lead found this pass — Heritage Petroleum (Trinidad)
+  remains the best open thread, but its portal is login-gated and needs
+  the candidate to check directly.
