@@ -33,6 +33,19 @@ only on ones the candidate confirms are worth the effort.
 - Aramco still gets a look given her PhD is at KFUPM, Saudi Arabia — but
   is no longer the only employer tracked
 
+## HARD ELIGIBILITY FILTER (added 2026-09-15)
+
+**Candidate is only authorized to work in Europe, Trinidad and Tobago, or
+GCC countries (Saudi Arabia, UAE, Qatar, Kuwait, Oman, Bahrain).** This is
+not a preference, it is a hard eligibility constraint — a job in the US,
+Malaysia, or anywhere else outside that list is not a real lead regardless
+of technical fit, and must not get CV/cover-letter effort. All 5 leads
+from the 2026-09-13 pass (TGS Staff Geophysicist R718, Sr Advising
+Geophysicist II R674, Geophysicist Processing & Imaging R714, Viridien
+Research/Imaging Geophysicist reqs, Halliburton Kuala Lumpur UEM
+Consultant) are DISQUALIFIED on location and struck below — the CV/cover
+letter already built for R718 must not be used.
+
 ## Companies in scope
 
 Saudi Aramco, SLB, Halliburton, Baker Hughes, TGS, Viridien (formerly CGG),
@@ -41,22 +54,36 @@ employers as they surface. Only counting **senior-level** postings (her
 profile is 17+ years) — early-career/graduate programme listings are
 noted but not tracked as real leads.
 
-## Candidate leads (updated 2026-09-13, unverified — click through before investing more time)
+## DISQUALIFIED on location (2026-09-13 pass — do not use, kept for record only)
 
-| Company | Title | Fit note | Link |
+| Company | Title | Location | Why disqualified |
 |---|---|---|---|
-| **TGS** | **Staff Geophysicist (R718)** | **Best match found so far** — full CV + cover letter + match report built. Mentoring/QC/imaging-leadership pattern from her CV lines up directly with the posting's responsibilities. Houston-based; relocation/remote status unconfirmed. | https://tgs.wd1.myworkdayjobs.com/en-US/TGS_External/job/Houston-Operational-Headquarters---77041/Staff-Geophysicist_R718 |
-| TGS | Sr Advising Geophysicist II (R674) | Not yet fully evaluated — plausible senior-level fit, same Houston HQ | https://tgs.wd1.myworkdayjobs.com/TGS_External/job/Houston-Operational-Headquarters---77041/Sr-Advising-Geophysicist-II_R674 |
-| TGS | Geophysicist – Processing & Imaging (R714) | Not yet fully evaluated — processing/imaging core matches her background, title suggests possibly less senior than Staff | https://tgs.wd1.myworkdayjobs.com/TGS_External/job/Houston-Operational-Headquarters---77041/Geophysicist---Processing---Imaging_R714 |
-| TGS | Principal Research Geophysicist | Exciting on paper (imaging + data science, echoes her PGNN project) but requires strong C/C++/Fortran and GPU/parallel-computing programming — not evidenced on her CV. Weaker fit than it looks; don't over-invest without addressing that gap first. | (req ID not isolated yet) |
-| Viridien (CGG) | Research Geophysicist (JR101276) / Imaging Geophysicist (JR100313, JR100639, JR101112) | Plausible fit — subsurface imaging R&D overlaps her depth-imaging and now PGNN/ML research background; seniority per req needs checking, several similarly-named reqs exist at different levels | https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Research-Geophysicist_JR101276-2 |
-| Baker Hughes | Consulting (reservoir-driven solutions, field development/reserves) | Vague listing, not a specific req yet — needs a targeted follow-up search | https://careers.bakerhughes.com/ (general) |
-| Halliburton | Reservoir Engineering & Geoscience Consultant, Unified Ensemble Modeling (UEM) | Only wants 5-10 yrs — likely under-leveled for her 17+ yrs experience; reservoir characterization overlap is real | https://careers.halliburton.com/job/kuala-lumpur/reservoir-engineering-and-geoscience-consultant/543/99162381168 |
+| TGS | Staff Geophysicist (R718) | Houston, USA | Outside authorized geographies. CV/cover letter/match report were built for this before the eligibility constraint was known — **do not send them.** |
+| TGS | Sr Advising Geophysicist II (R674) | Houston, USA | Outside authorized geographies |
+| TGS | Geophysicist – Processing & Imaging (R714) | Houston, USA | Outside authorized geographies |
+| TGS | Principal Research Geophysicist | Houston, USA | Outside authorized geographies (also had a programming-skills gap) |
+| Viridien (CGG) | Research/Imaging Geophysicist reqs | Houston, USA | Outside authorized geographies — note: Viridien has non-US offices (France, UK, Norway) worth re-checking separately |
+| Halliburton | Reservoir Eng. & Geoscience Consultant, UEM | Kuala Lumpur, Malaysia | Outside authorized geographies |
+| Baker Hughes | Consulting (reservoir-driven solutions) | Unconfirmed | Never had a location confirmed — re-search if pursuing Baker Hughes |
 
-Noted but not tracked (early-career/graduate level, wrong seniority):
-Halliburton Geoscientist II / Assoc II / Solutions Geoscientist I; SLB
-Early Careers Geophysicist; Viridien Graduate/Intern Imaging Geophysicist
-roles (several).
+## Candidate leads (updated 2026-09-15, location-filtered — Europe, Trinidad & Tobago, or GCC only; unverified, click through before investing more time)
+
+| Company | Title | Location | Fit note | Link |
+|---|---|---|---|---|
+| **ADNOC** | **Senior Geophysicist** | Abu Dhabi, UAE (GCC) | **Best match found this session.** Velocity modeling/depth conversion, VSP campaign QC, quantitative interpretation — full CV + cover letter + match report built. One real gap: geo-mechanical studies (training only, no job experience). | https://www.gulftalent.com/uae/jobs/senior-geophysicist-384576 (aggregator listing — verify on ADNOC's own careers portal too) |
+| Heritage Petroleum | Geophysicist (req IDs 1519, 1395 — titles not confirmed, portal is login-gated) | Trinidad & Tobago | Promising personal-history fit — she worked Trinidad exploration 2007-2009 (Repsol) in the same basin. Portal blocks search from seeing content; she needs to check directly. | https://career41.sapsf.com/career?company=heritagepe |
+| TGS | Depth Imaging Manager | Oslo, Norway | Currently appears held by a named person (Sören Naumann per LinkedIn) — likely not an open req right now, but confirms TGS has a Norway office worth periodic re-checking | — |
+| Shearwater GeoServices | (no confirmed senior opening yet) | Gatwick, UK / Norway | Company has real senior geoscience leadership (Global Head of Geoscience bio confirms UK/Norway presence) but only a graduate-level "Processing and Imaging" req surfaced so far | — |
+| Halliburton (Landmark) | Junior G&G Onsite Consultant | Stavanger, Norway | Wrong seniority (junior) — confirms Halliburton has a Stavanger office, worth re-checking for senior openings | — |
+| Baker Hughes | (no confirmed opening) | Aberdeen, UK (confirmed office) | Company confirmed active in Aberdeen (other engineering roles found); no geoscience-specific senior req surfaced yet | — |
+| Shell Trinidad, bpTT | (no specific req found yet) | Trinidad & Tobago | Both confirmed active employers of geoscientists/geophysicists in Trinidad; general careers pages only so far, no specific req isolated | https://www.shell.com.tt/careers.html |
+
+Europe searches so far surfaced company presence (Aberdeen, Stavanger,
+Oslo, Gatwick) but not confirmed open senior-level reqs with direct
+links — worth another focused pass. GCC beyond UAE (Qatar, Kuwait, Oman,
+Bahrain) showed senior listings in search snippets (Qatar Senior
+Geologist/Geophysicist 15+ yrs, Kuwait Geoscience Project Lead 15+ yrs)
+but without isolated direct links yet — next pass should chase these down.
 
 ## Aramco (now confirmed dead — kept for the lesson, not as leads)
 
@@ -100,3 +127,16 @@ unknown, not as leads, until re-checked.
   (R714) as further TGS leads not yet evaluated. Flagged TGS Principal
   Research Geophysicist as a weaker fit than its title suggests — it
   wants C/C++/Fortran and GPU programming depth she hasn't evidenced.
+- **2026-09-15** — Candidate clarified a hard eligibility constraint:
+  authorized to work only in Europe, Trinidad and Tobago, or GCC
+  countries. All 5 leads from 2026-09-13 (all Houston, plus one Kuala
+  Lumpur) are disqualified on location — struck to a dedicated
+  disqualified table, R718's CV/cover letter must not be used. Re-ran
+  search restricted to authorized geographies: strongest new find is
+  **ADNOC Senior Geophysicist** (Abu Dhabi) — excellent evidence match,
+  full CV + cover letter + match report built. Also surfaced Heritage
+  Petroleum (Trinidad, where the candidate has real prior work history),
+  and confirmed several companies' European/GCC office presence
+  (Aberdeen, Stavanger, Oslo, Gatwick) without yet isolating open senior
+  reqs there — flagged for a follow-up pass, along with Qatar/Kuwait GCC
+  leads seen in snippets but not yet resolved to direct links.
