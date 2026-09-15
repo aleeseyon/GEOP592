@@ -108,16 +108,22 @@ after that confirmation.
 | Shearwater GeoServices | No senior-level opening found this pass, only graduate-level | Gatwick, UK / Norway | — | — |
 | Halliburton (Landmark) | Junior G&G Onsite Consultant (wrong seniority, confirms Stavanger office exists) | Stavanger, Norway | — | — |
 | Perenco | Lead Geoscientist | Trinidad & Tobago | Energy Chamber of T&T vacancy list | Deadline already passed (2026-07-08) per listing — not live |
+| Baker Hughes | (no confirmed opening) | Aberdeen, UK (confirmed office) | No geoscience-specific senior req surfaced yet | — |
+| Shell Trinidad, bpTT | (no specific req found yet) | Trinidad & Tobago | General careers pages only, no specific req isolated | https://www.shell.com.tt/careers.html |
 
 Not tracked as leads (minerals/geotech, not petroleum geophysics — lower
 fit despite "Relocate to Saudi Arabia" pattern): Aramco Senior Exploration
 Minerals Geologist, Aramco Senior Geotechnical Specialist.
-| Baker Hughes | (no confirmed opening) | Aberdeen, UK (confirmed office) | Company confirmed active in Aberdeen (other engineering roles found); no geoscience-specific senior req surfaced yet | — |
-| Shell Trinidad, bpTT | (no specific req found yet) | Trinidad & Tobago | Both confirmed active employers of geoscientists/geophysicists in Trinidad; general careers pages only so far, no specific req isolated | https://www.shell.com.tt/careers.html |
 
 Europe searches so far surfaced company presence (Aberdeen, Stavanger,
 Oslo, Gatwick) but not confirmed open senior-level reqs with direct
 links — worth another focused pass.
+
+## Candidate-verified live (CV/cover letter built)
+
+| Company | Title | Location | Verified | Materials | Link |
+|---|---|---|---|---|---|
+| Aramco | Petrophysicist, Eastern Unconventional Characterization Division (EUCD) | Saudi Arabia | Candidate confirmed available, 2026-09-16 | CV + match report built. Candidate is a geophysicist, not a petrophysicist by training — CV headline and content reflect that honestly rather than claim petrophysics-specific expertise (core/lab analysis, petrophysics software) she doesn't have. Foregrounds her unpublished ML/reservoir-characterization project per her request. | https://careers.aramco.com/expat_uk/job/Petrophysicist/857285823/ |
 
 Qatar/Kuwait chased down 2026-09-16, both weak: the Qatar "Senior
 Geologist" lead (Khatib & Alami, https://www.gulftalent.com/qatar/jobs/senior-geologist-406173)
@@ -221,3 +227,13 @@ unknown, not as leads, until re-checked.
   role in Trinidad whose application deadline had already passed per the
   listing. No CV/cover letter built for any of these — added to the flat
   candidate-leads list only, pending candidate verification.
+- **2026-09-16 (f)** — Candidate confirmed the Aramco Petrophysicist
+  role (EUCD, 857285823 — noted as a weaker-fit lead back on 2026-09-15
+  for a discipline mismatch) is available and asked for a tailored CV.
+  Built CV + match report, deliberately keeping the headline and content
+  honest about the geophysicist/petrophysicist discipline gap (no cores,
+  lab measurements, or petrophysics software claimed) while foregrounding
+  her unpublished PGNN/reservoir-characterization ML project as
+  requested, since it maps directly onto the role's "data science to
+  predict reservoir quality" line. Moved to a new "Candidate-verified
+  live" table.
